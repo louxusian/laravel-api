@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Killtw\\Api\\": "src/"
+            "Louxusian\\Api\\": "src/"
         },
         "files": [
             "src/helper.php"

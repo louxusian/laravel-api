@@ -1,6 +1,6 @@
 <?php
 
-namespace Killtw\Api;
+namespace Louxusian\Api;
 
 use Illuminate\Support\ServiceProvider;
 
