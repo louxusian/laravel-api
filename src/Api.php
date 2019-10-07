@@ -18,7 +18,7 @@ use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
  * @method mixed patch($url, $parameters)
  * @method mixed delete($url, $parameters)
  *
- * @package Killtw\Api
+ * @package Louxusian\Api
  */
 class Api
 {
